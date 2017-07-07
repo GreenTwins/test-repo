@@ -1,1 +1,11 @@
-This is the README for the test!
+Writing a README sample 
+
+**Version 1.0.0**
+
+A readme for the test Repository
+
+---
+
+License & Copyright
+
+©GreenTwins  
